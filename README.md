@@ -14,7 +14,9 @@ Este projeto é um contador descentralizado (DApp) usando Solidity, Hardhat, Rea
 3. Acesse o frontend, interaja com o contador e veja as transações no Ganache.
 
 ## Comprovação de funcionamento
-Veja o arquivo `.png` incluso no projeto para comprovar o funcionamento da aplicação.
+Veja abaixo a imagem de comprovação do funcionamento da aplicação:
+
+![DApp funcionando](./contratoFuncionandoBotoesIncrementarDecrementar.png)
 
 ---
 
